@@ -1,4 +1,3 @@
-portainer/agent
-linuxserver/qbittorrent
-linuxserver/unifi-controller
-jellyfin/jellyfin
+grafana/grafana-enterprise
+grafana/grafana
+adguard/adguardhome
