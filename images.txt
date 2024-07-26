@@ -1,1 +1,1 @@
-ghcr.io/home-assistant/home-assistant:stable
+docker.io/jc21/nginx-proxy-manager:latest
