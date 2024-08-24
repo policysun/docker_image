@@ -1,1 +1,1 @@
-adguard/adguardhome
+ghcr.io/wg-easy/wg-easy
