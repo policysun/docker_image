@@ -1,1 +1,4 @@
-ghcr.io/wg-easy/wg-easy
+postgres:latest
+zabbix/zabbix-snmptraps:alpine-7.0-latest
+zabbix/zabbix-server-pgsql:alpine-7.0-latest
+zabbix/zabbix-web-nginx-pgsql:alpine-7.0-latest
