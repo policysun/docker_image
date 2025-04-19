@@ -1,1 +1,2 @@
-lscr.io/linuxserver/firefox:latest
+mysql:8.0
+wordpress
