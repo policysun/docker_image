@@ -1,3 +1,1 @@
-zabbix/zabbix-java-gateway:alpine-5.4-latest
-zabbix/zabbix-server-mysql:alpine-5.4-latest
-zabbix/zabbix-web-nginx-mysql:alpine-5.4-latest
+mysql:8.0-oracle
