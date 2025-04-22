@@ -1,1 +1,1 @@
-jumpserver/jms_all:latest
+redis:latest
