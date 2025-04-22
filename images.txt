@@ -1,3 +1,1 @@
-zabbix/zabbix-java-gateway:alpine-7.2-latest
-zabbix/zabbix-server-mysql:alpine-7.2-latest
-zabbix/zabbix-web-nginx-mysql:alpine-7.2-latest
+jumpserver/jms_all:latest
