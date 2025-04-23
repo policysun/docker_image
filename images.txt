@@ -1,1 +1,3 @@
-redis:latest
+phpipam/phpipam-www:latest
+phpipam/phpipam-cron:latest
+mariadb:latest
