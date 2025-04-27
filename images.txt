@@ -1,1 +1,1 @@
-docker pull browserless/chrome:latest
+browserless/chrome:latest
