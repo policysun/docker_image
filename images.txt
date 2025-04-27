@@ -1,3 +1,1 @@
-phpipam/phpipam-www:latest
-phpipam/phpipam-cron:latest
-mariadb:latest
+docker pull browserless/chrome
